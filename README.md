@@ -1,4 +1,4 @@
 # hadiyanykuntoro.github.io
-Hello.
+Hello!
 
 Welcome to my GitHub profile.
